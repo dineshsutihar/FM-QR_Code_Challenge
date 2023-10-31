@@ -14,9 +14,7 @@ In this repository, you will find a solution for the **QR Component** challenge 
 ### Solution Screenshot
 <<<<<<< HEAD
 ![QR Component Solution](/design/output/Screenshot.png)
-=======
-![QR Component Solution](/design/design/desktop-preview.png)
->>>>>>> 8e77a92fa5fe8a0f1135be8362c02b29b8421963
+
 
 ## How to Use This Repository
 - **Clone the Repository:** You can clone this repository to your local machine using the following command:
