@@ -12,7 +12,6 @@ In this repository, you will find a solution for the **QR Component** challenge 
 - Challenge: [QR Component Challenge](https://www.frontendmentor.io/challenges/qr-code-component-Nv1Jq) given in this website.
 
 ### Solution Screenshot
-<<<<<<< HEAD
 ![QR Component Solution](/design/output/Screenshot.png)
 
 
