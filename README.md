@@ -12,7 +12,7 @@ In this repository, you will find a solution for the **QR Component** challenge 
 - Challenge: [QR Component Challenge](https://www.frontendmentor.io/challenges/qr-code-component-Nv1Jq) given in this website.
 
 ### Solution Screenshot
-![QR Component Solution](/design/design/desktop-preview.jpg)
+![QR Component Solution](/design/design/desktop-preview.png)
 
 ## How to Use This Repository
 - **Clone the Repository:** You can clone this repository to your local machine using the following command:
